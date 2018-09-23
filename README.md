@@ -7,6 +7,6 @@ resume.html
 index.html
 seems ok and is implemented correctly
 
-TAs have helped me quit a bit.  They are Michael Dunkelman and Rifat Ralfi Salhon.
+TAs have helped me quit a bit.  They are Michael Dunkelman and Rifat Ralfi Salhon and Juliana Furgala.
 
-spent about 3-4 hours on this assignment.
+spent about 4-5 hours on this assignment.
