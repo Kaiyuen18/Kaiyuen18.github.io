@@ -4,26 +4,32 @@ body {
   	font-size: 14px;
 }
 
-
-span {
-    display: none;
+p{
+	margin: 15px;
 }
 
 li {
     float: left;
 }
 
-centre {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
+.center {
+	display: block;
+	position: relative;
+	margin: auto;
+}
+
+.half_width{
+	display: block;
+	width: 800px;
+	margin: auto;
 }
 
 
 title {
-
-font-family: time new roman, sans-serif;
+	font-family: time new roman, sans-serif;
   	font-size: 20px;
+}
 
+h1{
+	font-size:36px;
 }
